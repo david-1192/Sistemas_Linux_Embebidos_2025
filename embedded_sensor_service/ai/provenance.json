@@ -1,0 +1,15 @@
+{
+  "ai_tools": [
+    {
+      "name": "ChatGPT",
+      "model": "GPT-5",
+      "provider": "OpenAI",
+      "dates_used": [
+        "2025-09-24",
+        "2025-09-25",
+        "2025-10-01"
+      ],
+      "purpose": "Asistencia en diseño del programa, manejo de intervalos y señales, creación de Makefile, configuración de systemd service, pruebas manuales, sugerencias en la documentación (README.md)."
+    }
+  ]
+}
